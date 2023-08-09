@@ -6,3 +6,4 @@
 - 0xclaura (5).jpg
 - 0xclaura (6).jpg
 - 0xclaura (7).jpg
+- 0xclaura (8).jpg
